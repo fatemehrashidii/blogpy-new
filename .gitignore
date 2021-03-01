@@ -2,3 +2,8 @@
 
 #Virtual Env
 venv/
+
+#migratins
+blog/migrations/
+
+db.sqlite3
